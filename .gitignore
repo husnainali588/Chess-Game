@@ -1,0 +1,12 @@
+node_modules
+
+# Security: Never upload passwords/keys
+.env
+
+# Logs: No need to upload error logs
+npm-debug.log
+*.log
+
+# OS Junk: Useless system files
+.DS_Store
+Thumbs.db
